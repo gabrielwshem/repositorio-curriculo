@@ -1,5 +1,5 @@
 // Efeito de digitação
-const text = "Olá, eu sou Thaumas Miguel 👋";
+const text = "Olá, eu sou Gabriel Henrique👋";
 let i = 0;
 function typing() {
   if (i < text.length) {
